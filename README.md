@@ -1,3 +1,4 @@
+
 # Slidely Ai Backend
 
 ## Description
@@ -28,31 +29,41 @@ This project implements a backend server using ***Express and TypeScript*** to m
    returns the submission object along with its index.
 
 #### Installation Process
+**1. Open VsCode Terminal or Normal Terminal**
 
-**1.** **Clone the project**
+
+![Terminal](https://snipboard.io/XoJQzq.jpg)
+
+**2.** **Clone the project**
 
 ```bash
   git clone https://github.com/akkulsecond213/Slidely_ai_backend.git
 ```
+![clone](https://snipboard.io/lARZCF.jpg)
 
-**2. Go to the project directory**
+**3. Go to the project directory**
 
 ```bash
   cd Slidely_ai_backend
 ```
+![project directory](https://snipboard.io/AkZC2a.jpg)
 
-**3. Install dependencies**
+**4. Install dependencies**
 
 ```bash
   npm install
 ```
+![Dependencies](https://snipboard.io/ZCQiVx.jpg)
 
-**4 . Start the server**
+**5 . Start the server**
 
 ```bash
   npm run start
 ```
-5. We can also use ***nodemon*** as it helps in ***automatically restarting the node application*** when file changes in the directory are detected.
+![Server start ](https://snipboard.io/2IMu3t.jpg)
+
+**6**. We can also use ***nodemon*** as it helps in ***automatically restarting the node application*** when file changes in the directory are detected.
 ```bash
   npm run dev
 ```
+![enter image description here](https://snipboard.io/yo60FE.jpg)
